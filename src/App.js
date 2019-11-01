@@ -9,10 +9,10 @@ class App extends Component {
         name: "Frankenstein"
       },
       {
-        name: "Frankenstein"
+        name: "Dracula"
       },
       {
-        name: "Frankenstein"
+        name: "Zombie"
       }
     ]
   };
