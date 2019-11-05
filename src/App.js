@@ -4,7 +4,8 @@ import "./App.css";
 
 class App extends Component {
   state = {
-    monsters: []
+    monsters: [],
+    searchField: ""
   };
 
   componentDidMount() {
